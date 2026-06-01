@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calificaciones</string>
+    <string name="Titulo">Calculo de calificaciones</string>
+    <string name="txt_nom">Nombre estudiante: </string>
+    <string name="txt_mat">Matricula: </string>
+    <string name="txt_cal1">Calificacion 1:: </string>
+    <string name="txt_cal2">Calificacion 2:: </string>
+    <string name="txt_cal3">Calificacion 3:: </string>
+</resources>
